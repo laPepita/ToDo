@@ -7,6 +7,12 @@ https://d3js.org/
 ## Blog
 https://wordpress.com/posts/fabriziogiabardo.wordpress.com?verified=1
 
+# To Read
+Things to read like blogs etc..
+
+##Groove HQ Blog (UX and Service design etc...)
+https://www.groovehq.com/blog/exit-surveys
+
 # To Use
 These are some tools that I should use
 
